@@ -1,0 +1,25 @@
+---
+layout: ../../layouts/post.astro
+title: "Emulando a Sete Gibernau"
+pubDate: 2006-07-19
+description: "Seguramente muchos de vosotros os habréis enterado (las noticias vuelan),...bueno pues resulta que esta mañana, como tantas otras, he ido a"
+author: "akirasan"
+isPinned: false
+excerpt: "Seguramente muchos de vosotros os habréis enterado (las noticias vuelan),...bueno pues resulta que esta mañana, como tantas otras, he ido a"
+image:
+  src: ""
+  alt: "Emulando a Sete Gibernau"
+tags: []
+---
+
+Seguramente muchos de vosotros os habréis enterado (las noticias vuelan),...bueno pues resulta que esta mañana, como tantas otras, he ido a trabajar en moto. He pasado por la gasolinera previamente y luego cuando estaba de camino, aún por Ripollet,...he emulado a Sete, vamos que ha venido **un desgraciao** (porque no tiene otro nombre), **se ha saltado** un **STOP** y ha colisionado conmigo. **He salido volando**, he caído al suelo a cuatro patas dañándome la rodilla y luego he debido dar una vuelta, porque he picado con el casco por dos sitios y me he hecho daño en el costado derecho (a la altura del riñón). Bueno una vez que he parado de rodar, he visto como el pavo **NO PARABA EL COCHE**!!!,...y ha seguido unos **50m** **sin detenerse**, yo trataba de fijarme en el modelo y la matrícula,...porque claro no paraba y pensaba que se daba a la fuga con el paragolpes delantero colgando,...
+
+...**os puedo asegurar** que, desde el momento del impacto con el coche, por mi mente han pasado estos pensamientos: primer impacto: "*...la madre que lo parió!!!...*", cuando aterrizo con la rodilla en el suelo: "*....mierda la rodilla,...con estos pantalones,...*" (llevaba unos pantalones de traje iba a currar), me paro: "*...me parao,...estoy bien,...¿donde esta?...*"
+
+Bueno luego os podéis imaginar,...ha venido la gente, han llamado a la urbana y a una ambulancia, porque inicialmente me dolía bastante la rodilla mas que el costado (ahora la cosa a cambiado y es al revés). La policia urbana de Ripollet se ha encargado de todo, me han pedido los papeles de la moto y el DNI y han llevado la moto al deposito. También se han encargado de **buscar al desgraciao** que se saltó el STOP y que había dejado el coche en medio de la calle y **se había metido en el bar!!!**,...es mas, creo que ni se ha preocupado en saber como me encontraba. Bueno al final me ha reconocido el médico de la ambulancia y me han llevado al Hospital Taulí de Sabadell. Allí me han hecho unas radiografías de la rodilla y del costado y no han encontrado nada, también me han hecho un análisis de orina, por si el riñón estaba tocado,...pero ha dado negativo.
+
+Esta tarde me han dado la baja en la mutua del trabajo, ya que ha sido un accidente laboral. Y dentro de dos días tengo revisión nuevamente, porque **los golpes salen a las 48h**, espero que mañana no me salgan mas dolores de los que tengo,... ;P También me he pasado por el depósito municipal de Ripollet y allí estaba,...mi Suzuki GSR600 con tres meses hecha caldo. He hecho algunas fotos con el móvil que os dejo a continuación. Pero la imagen de esta mañana no tiene precio,...mi GSR chorreando aceite por el motor,...vamos que se ha quedado partido. El depósito está abollado por un lado, la palanca de freno de pie se ha incrustado literalmente en el chasis. La maneta del embrague rota, un retrovisor no estaba, el otro colgando,...uno de los tubos de escape también roto y bueno ya no recuerdo nada mas,...ya veremos el Perito cuando la evalúe.
+
+[![DSC001001.JPG](http://www.akirasan.net/uploads/2006_2/07/accidente/.thumbs/.DSC001001.JPG "DSC001001.JPG")](http://www.akirasan.net/uploads/2006_2/07/accidente/DSC001001.JPG)[![DSC001011.JPG](http://www.akirasan.net/uploads/2006_2/07/accidente/.thumbs/.DSC001011.JPG "DSC001011.JPG")](http://www.akirasan.net/uploads/2006_2/07/accidente/DSC001011.JPG)[![DSC001021.JPG](http://www.akirasan.net/uploads/2006_2/07/accidente/.thumbs/.DSC001021.JPG "DSC001021.JPG")](http://www.akirasan.net/uploads/2006_2/07/accidente/DSC001021.JPG)[![DSC001031.JPG](http://www.akirasan.net/uploads/2006_2/07/accidente/.thumbs/.DSC001031.JPG "DSC001031.JPG")](http://www.akirasan.net/uploads/2006_2/07/accidente/DSC001031.JPG)[![DSC001041.JPG](http://www.akirasan.net/uploads/2006_2/07/accidente/.thumbs/.DSC001041.JPG "DSC001041.JPG")](http://www.akirasan.net/uploads/2006_2/07/accidente/DSC001041.JPG)[![DSC001051.JPG](http://www.akirasan.net/uploads/2006_2/07/accidente/.thumbs/.DSC001051.JPG "DSC001051.JPG")](http://www.akirasan.net/uploads/2006_2/07/accidente/DSC001051.JPG)[![DSC001061.JPG](http://www.akirasan.net/uploads/2006_2/07/accidente/.thumbs/.DSC001061.JPG "DSC001061.JPG")](http://www.akirasan.net/uploads/2006_2/07/accidente/DSC001061.JPG)[![DSC001071.JPG](http://www.akirasan.net/uploads/2006_2/07/accidente/.thumbs/.DSC001071.JPG "DSC001071.JPG")](http://www.akirasan.net/uploads/2006_2/07/accidente/DSC001071.JPG)
+
+Por cierto,...¿y quien me paga los 16 euros de gasofa que le he metido esta mañana?,.... ;P
