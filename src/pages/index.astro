@@ -13,7 +13,7 @@ const allPosts = Object.values(
 	import.meta.glob('./posts/*.md', { eager: true })
 ) as MarkdownInstance<any>[];
 allPosts.sort(sortPostsByDate);
-const latestPosts = allPosts.slice(0, 4);
+const latestPosts = allPosts.slice(0, 20);
 ---
 
 <Base head={{ title, description }}>
