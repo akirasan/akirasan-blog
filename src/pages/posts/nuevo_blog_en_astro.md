@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/post.astro
 title: "Nuevo dominio, nuevo motor: de Ghost a Astro en akirasan.xyz"
-pubDate: 2024-05-15
+pubDate: 2026-09-20
 description: "Digo adiós a akirasan.net y a Ghost para renacer en akirasan.xyz con Astro, GitHub y Cloudflare Pages. Un stack moderno, ligero y 100% en modo maker."
 author: "akirasan"
 isPinned: false
