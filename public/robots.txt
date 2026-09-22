@@ -1,4 +1,13 @@
+# https://www.robotstxt.org/robotstxt.html
+# Robots.txt para akirasan.es
+
+# Permitir indexar todo a todos los robots legítimos
 User-agent: *
 Allow: /
 
-Sitemap: https://nicdun.dev/sitemap-index.xml
+# Excluir rutas técnicas o temporales si las tuvieras (opcional)
+# Disallow: /api/
+# Disallow: /search/
+
+# Indicar la ubicación del Sitemap (¡muy importante para SEO!)
+Sitemap: https://akirasan.es/sitemap-index.xml

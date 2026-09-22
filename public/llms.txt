@@ -1,0 +1,16 @@
+# akirasan.es
+
+> Blog personal sobre makers, hardware, electrónica, impresión 3D, desarrollo y Linux.
+
+## Acerca del autor
+- **Autor**: akirasan
+- **Web**: https://akirasan.es
+- **Temáticas**: Impresión 3D, IoT/LoRaWAN, Raspberry Pi, Linux, automatización, Docker y desarrollo web.
+
+## Artículos destacados y guías técnicas
+- [Limpiar mensajes MQTT retenidos en Mosquitto](https://akirasan.es/posts/2021-10-26-limpiar-mensaje-retenedos-en-mosquitto): Guía práctica para purgar mensajes retenidos en un broker Mosquitto sobre Linux.
+- [Nuevo dominio, nuevo motor: de Ghost a Astro](https://akirasan.es/posts/2026-09-20-nuevo-blog-en-astro): Migración de Ghost autohospedado a Astro en Cloudflare Pages con Tailwind CSS.
+
+## Enlaces del sitio
+- [Índice de posts](https://akirasan.es/posts)
+- [Feed RSS](https://akirasan.es/rss.xml)

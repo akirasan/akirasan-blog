@@ -33,7 +33,7 @@ const options = {
 
 // https://astro.build/config
 export default defineConfig({
-	site: 'https://akirasan.xyz',
+	site: 'https://akirasan.es',
 
 	markdown: {
 		syntaxHighlight: false,
