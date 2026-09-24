@@ -1,16 +1,23 @@
 # akirasan.es
 
-> Blog personal sobre makers, hardware, electrónica, impresión 3D, desarrollo y Linux.
+> Blog de notas técnicas sobre desarrollo, hardware, Linux, IoT e impresión 3D por akirasan.
 
-## Acerca del autor
-- **Autor**: akirasan
-- **Web**: https://akirasan.es
-- **Temáticas**: Impresión 3D, IoT/LoRaWAN, Raspberry Pi, Linux, automatización, Docker y desarrollo web.
+## Sobre el autor
+Blog personal centrado en proyectos maker, automatización, administración de sistemas Linux, microcontroladores y experimentación con software libre.
 
-## Artículos destacados y guías técnicas
-- [Limpiar mensajes MQTT retenidos en Mosquitto](https://akirasan.es/posts/2021-10-26-limpiar-mensaje-retenedos-en-mosquitto): Guía práctica para purgar mensajes retenidos en un broker Mosquitto sobre Linux.
-- [Nuevo dominio, nuevo motor: de Ghost a Astro](https://akirasan.es/posts/2026-09-20-nuevo-blog-en-astro): Migración de Ghost autohospedado a Astro en Cloudflare Pages con Tailwind CSS.
+## Categorías y artículos destacados
 
-## Enlaces del sitio
-- [Índice de posts](https://akirasan.es/posts)
+### Linux y Sysadmin
+- [Limpiar mensajes MQTT retenidos en Mosquitto](https://akirasan.es/posts/2021-10-26-limpiar-mensaje-retenedos-en-mosquitto): Procedimiento para depurar y vaciar la persistencia de mensajes MQTT en brokers Mosquitto.
+- [Nuevo dominio, nuevo motor: de Ghost a Astro](https://akirasan.es/posts/2026-09-20-nuevo-blog-en-astro): Arquitectura SSG con Astro, Tailwind CSS y despliegue en Cloudflare Pages.
+
+### IoT, Hardware y Redes
+- Proyectos sobre sensores, balizas LoRaWAN, microcontroladores (ESP32, Arduino) y pasarelas con Raspberry Pi.
+
+### Impresión 3D y Modelado
+- Flujos de trabajo de laminado, diseño técnico en CAD y piezas funcionales para taller.
+
+## Recursos
+- [Archivo completo de posts](https://akirasan.es/posts)
 - [Feed RSS](https://akirasan.es/rss.xml)
+- [Sitemap](https://akirasan.es/sitemap-index.xml)
