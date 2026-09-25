@@ -2,19 +2,19 @@
 layout: ../../layouts/post.astro
 title: "Nuevo blog en Astro: cambiando de aires (y de dominio)"
 pubDate: 2026-09-19
-description: "Toca cambiar de aires. Adiós a akirasan.net y a Ghost para pasar a akirasan.xyz con Astro, GitHub y Cloudflare."
+description: "Toca cambiar de aires. Adiós a akirasan.net y a Ghost para pasar a akirasan.es con Astro, GitHub y Cloudflare."
 author: "akirasan"
 isPinned: false
-excerpt: "Toca cambiar de aires. Adiós a akirasan.net y a Ghost para pasar a akirasan.xyz con Astro, GitHub y Cloudflare."
+excerpt: "Toca cambiar de aires. Adiós a akirasan.net y a Ghost para pasar a akirasan.es con Astro, GitHub y Cloudflare."
 image:
   src: "/images/newblogastro.jpg"
-  alt: "Nuevo blog en Astro akirasan.xyz"
+  alt: "Nuevo blog en Astro akirasan.es"
 tags: ["Astro", "maker", "DIY", "Cloudflare", "GitHub"]
 ---
 
 Toca cambiar de aires, y esta vez obligados.
 
-Si seguías mis publicaciones por aquí sabrás que el blog ha estado funcionando durante años en el dominio `akirasan.net`. Pero por un despiste con el registrador acabé perdiendo el dominio. Una faena después de tanto tiempo, pero bueno, tampoco hay que lamentarse: he aprovechado la ocasión para hacer borrón y cuenta nueva y mudarnos a **[akirasan.xyz](https://akirasan.xyz)**.
+Si seguías mis publicaciones por aquí sabrás que el blog ha estado funcionando durante años en el dominio `akirasan.net`. Pero por un despiste con el registrador acabé perdiendo el dominio. Una faena después de tanto tiempo, pero bueno, tampoco hay que lamentarse: he aprovechado la ocasión para hacer borrón y cuenta nueva y mudarnos a **[akirasan.es](https://akirasan.es)**.
 
 Y ya puestos en faena, tocaba cambio total de tecnología.
 
