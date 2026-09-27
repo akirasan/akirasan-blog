@@ -12,6 +12,8 @@ image:
 tags: ["hardware", "DIY", "reparacion", "teardown", "maker"]
 ---
 
+Desmontando un monitor PcCom para reparar su tira LED de retroiluminación. Una odisea de capas, voltajes y un final inesperado.
+
 Tenía por aquí este monitor PcCom de 27" que de repente decidió dejar a oscuras media pantalla. Se encendía, daba señal, pero toda la parte derecha se quedaba en penumbra. Clásico fallo de la retroiluminación (backlight).
 
 ![](/images/2026-09-24-reparacion-monitor-01.webp)
@@ -50,13 +52,13 @@ Aquí vino el drama. Tras localizar los diodos dañados e intentar sanear la tir
 
 ![](/images/2026-09-24-reparacion-monitor-08.webp)
 
-Un desastre. La tira quedó inservible y sin opción de parche rápido con el soldador. 
+Un desastre. La tira quedó inservible y sin opción de parche rápido con el soldador.
 
 Aún así monté de nuevo todo el sándwich de capas y el marco para verificar que al menos el panel de cristal LCD no había sufrido durante el desmontaje.
 
 ![](/images/2026-09-24-reparacion-monitor-09.webp)
 
-Como veis, el panel está vivo y la imagen se ve de lujo en la parte izquierda, pero la mitad derecha sigue en tinieblas esperando luz. 
+Como veis, el panel está vivo y la imagen se ve de lujo en la parte izquierda, pero la mitad derecha sigue en tinieblas esperando luz.
 
 ### ¿Y ahora qué?
 
