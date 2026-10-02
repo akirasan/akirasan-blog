@@ -14,8 +14,6 @@ tags: ["Linux", "IA", "optimización", "zRAM", "sysadmin", "DIY"]
 
 Cómo usar la IA como copiloto de terminal para auditar, iterar y resucitar un portátil veterano afinando zRAM, TLP y kernel.
 
-Todos tenemos en el taller o por casa algún portátil veterano que empieza a arrastrarse: ventiladores zumbando a tope sin hacer nada, microtirones al abrir dos pestañas del navegador y la sensación de que el hardware ya no da más de sí.
-
 Normalmente, ponerse a afinar un sistema Linux a bajo nivel da pereza: bucear en foros antiguos de hace cinco años, mirar documentación del kernel, probar parámetros de `sysctl` a ciegas y cruzar los dedos para no romper nada. No soy sysadmin de formación, así que suelo ir probando sobre la marcha,...pero usando la IA como copiloto técnico interactivo, ese proceso cambia por completo: en vez de pasar horas buscando información dispersa, vas lanzando comandos de diagnóstico, pegando la salida en crudo y recibiendo un ajuste concreto en cuestión de segundos.
 
 
