@@ -1,0 +1,14 @@
+{
+  // ============================================================
+  // Configuración de visualización del explorador de VS Code
+  // ============================================================
+  // Oculta del árbol lateral los artículos antiguos para facilitar
+  // la navegación y dejar visibles únicamente las entradas recientes.
+  // NOTA: Astro sigue compilando y publicando estos archivos con normalidad.
+  // Para abrir un post antiguo oculto, usa Ctrl + P y escribe su nombre.
+  "files.exclude": {
+    "**/src/pages/posts/200*.md": true,       // Oculta posts de 2000 a 2009
+    "**/src/pages/posts/201*.md": true,       // Oculta posts de 2010 a 2019
+    "**/src/pages/posts/202[0-5]*.md": true   // Oculta posts de 2020 a 2025
+  }
+}
