@@ -73,4 +73,4 @@ void drawAppleSunCloud(int cx, int cy) {
 
 Y con esto ya tengo mi pequeña estación meteo funcionando con muy buena pinta, sin haber tocado ni un editor de imágenes. Creo que el siguiente paso será añadirle algún sensor propio en vez de depender solo de una API externa ;)
 
-Ahh!!! y os dejo [por aquí el repositorio en Github](https://github.com/akirasan/esp32-c3_eink "repositorio esp32-c3_eink") por si queréis ver el código completo:
+Ahh!!! y os dejo [por aquí el repositorio en Github](https://github.com/akirasan/esp32-c3_meteo "repositorio esp32-c3_eink") por si queréis ver el código completo:
