@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/post.astro
-title: "Prototipado rápido con IA: ESP32-C3, pantalla e-Paper y diseño de interfaz"
+title: "Cocreando con IA: ESP32-C3, e-Paper y diseño de interfaz"
 pubDate: 2026-09-20
 description: "De una foto y un prompt en lenguaje natural a tener una estación meteo con diseño limpio tipo Apple y portal cautivo funcionando."
 author: "akirasan"
