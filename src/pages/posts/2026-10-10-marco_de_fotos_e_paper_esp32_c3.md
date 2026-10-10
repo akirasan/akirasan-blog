@@ -7,7 +7,7 @@ author: "akirasan"
 isPinned: false
 excerpt: "Cómo montar un marco de fotos minimalista con pantalla e-Paper de 1,54″ y subir fotos desde el móvil sin instalar apps de terceros."
 image:
-  src: "/images/2026-10-10-esp32c3_fotomarco-01"
+  src: "/images/2026-10-10-esp32c3_fotomarco-01.webp"
   alt: "Marco de fotos digital con pantalla e-Paper y ESP32-C3"
 tags: ["ESP32", "e-Paper", "hardware", "DIY", "maker", "PlatformIO"]
 ---
@@ -16,7 +16,6 @@ Tenía ganas de cacharrear con una pantalla de tinta electrónica pequeña que t
 
 La solución ha sido montar un sistema autónomo: el propio microcontrolador genera su propia red Wi-Fi con portal cautivo, te conectas desde el teléfono, se abre una interfaz web en el navegador, eliges cualquier foto de tu galería, la encuadras y la mandas a la pantalla en un par de clics.
 
-![](/images/2026-10-10-esp32c3_fotomarco-01)
 
 ## ¿Qué necesitamos?
 
@@ -25,8 +24,6 @@ Para el montaje he optado por componentes muy económicos y fáciles de consegui
 * **ESP32-C3 SuperMini:** Una placa diminuta basada en arquitectura RISC-V con conectividad Wi-Fi y puerto USB-C nativo.
 * **Pantalla E-Paper WeAct Studio 1.54″:** Panel monocromo (blanco y negro) de 200×200 píxeles con controlador SSD1681.
 * **Cables de conexión** y un cable USB-C estándar para alimentarlo.
-
-![Montaje del marco de fotos e-Paper](https://github.com/akirasan/esp32-c3_fotomarco/blob/main/assets/webapp_interfaz.png?raw=true)
 
 ## Conexión del hardware
 
@@ -55,7 +52,7 @@ La gracia del proyecto está en delegar todo ese trabajo al navegador del teléf
 2. Gracias a un servidor DNS interno (`DNSServer`), al conectarte salta automáticamente el portal cautivo en iOS y Android sin tener que escribir `192.168.4.1` a mano.
 3. El navegador carga una *Single Page Application* embebida en la memoria Flash del ESP32 con diseño táctil estilo iOS.
 
-![Interfaz web móvil para encuadrar y tramado](/images/webapp_interfaz.png)
+![Interfaz web móvil para encuadrar y tramado](/images/2026-10-10-esp32c3_fotomarco-webapp_interfaz.png)
 
 Desde la propia interfaz web puedes mover la imagen con el dedo, hacer zoom, rotarla, ajustar brillo y contraste, y seleccionar el algoritmo de tramado (*dithering*) en tiempo real sobre un elemento `<canvas>`:
 
